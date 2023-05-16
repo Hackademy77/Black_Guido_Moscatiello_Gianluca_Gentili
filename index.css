@@ -1,0 +1,44 @@
+*{
+    
+    
+}
+.logomoon{
+    position: absolute;
+    height: 100%;
+    width: 20%%;
+}
+.navtext{
+    margin-left: 8%;
+    padding: 1%;
+
+    
+}
+
+
+.bgimg{
+    height: 80vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0,0,0,1)), url(media/moon.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.positiontexthead{
+    text-align: start;
+    
+}
+.imgmoon2{
+   height: 50vh;
+   
+   
+}
+.imgmissile{
+    width: 50vw;
+    height: 100vh;
+}
+.span{
+    height: 80vh;
+    background-image: url(./media/sunrise-1765027_1920.jpg);
+    background-position: center;
+    background-size: cover;
+
+   
+}
